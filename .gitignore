@@ -1,6 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/DerivedDataCache/
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
